@@ -1,0 +1,3 @@
+rootProject.name = 'clamp_meter'
+
+include ':app'
